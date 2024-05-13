@@ -1,0 +1,6 @@
+/*----- sm devices (tablets, 767px and down) -----*/
+@media (max-width: 767px) {
+  .main_page {
+    width: 100%;
+  }
+}
